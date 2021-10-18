@@ -8,4 +8,4 @@ Some screenshots of this project
 
 <img width="1373" alt="Screenshot 2021-10-19 at 12 57 58 AM" src="https://user-images.githubusercontent.com/69674721/137795428-b25eaee8-e048-4006-b941-2c83f31aa7f8.png">
 
-<img width="847" alt="Screenshot 2021-10-19 at 1 00 36 AM" src="https://user-images.githubusercontent.com/69674721/137794860-58037933-200e-480d-9989-6559620785a4.png">
+<img width="1373" alt="Screenshot 2021-10-19 at 1 00 36 AM" src="https://user-images.githubusercontent.com/69674721/137794860-58037933-200e-480d-9989-6559620785a4.png">
