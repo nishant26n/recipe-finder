@@ -1,0 +1,45 @@
+.ingredients {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+
+.ingredient-title {
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  padding: 6px;
+  background-color: #292929;
+  color: #fafaff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.ingredient-list {
+  display: grid;
+  justify-content: flex-start;
+  margin-left: 1rem;
+  list-style-type: square;
+}
+
+.ingredient-list-step {
+  padding: 5px;
+}
+
+.full-recipe-btn {
+  width: 7rem;
+  height: 2.2rem;
+  padding: 5px;
+  background-color: #0048ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+@media only screen and (max-width: 908px) {
+  .ingredient-title {
+    margin-top: 0;
+  }
+}

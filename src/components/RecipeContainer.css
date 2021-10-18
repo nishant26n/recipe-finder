@@ -1,0 +1,45 @@
+.container {
+  display: grid;
+  justify-content: center;
+  text-align: start;
+  margin: 2rem;
+  margin-top: 2px;
+  padding: 5px;
+}
+
+.recipe-name {
+  color: #292929;
+  font-size: 1.3rem;
+  margin-left: 2rem;
+  width: 20rem;
+}
+
+.recipe-img {
+  margin: 1rem;
+  border-radius: 2.5rem;
+  width: 20rem;
+  height: 20.5rem;
+}
+
+.recipe-type {
+  text-transform: capitalize;
+  margin-left: 2rem;
+  color: #878484;
+}
+
+.calories {
+  margin-left: 2rem;
+  color: #878484;
+}
+
+.recipe-btn {
+  width: 5.5rem;
+  margin-left: 2rem;
+  margin-top: 5px;
+  border: none;
+  background-color: #0048ff;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
